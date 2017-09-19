@@ -1,7 +1,5 @@
 # OSP10-HandsOn
-Set Up Environment and SSH Lab
-Lab Environment Overview
-Lab Environment Components
+This is Test Version
 
 ## テスト
 A workstation that serves as the jump box
