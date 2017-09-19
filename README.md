@@ -2,19 +2,21 @@
 Set Up Environment and SSH Lab
 Lab Environment Overview
 Lab Environment Components
+
+##
 A workstation that serves as the jump box
 A Controller node
 Two Compute nodes
 A dedicated storage server
 An IPA server
 
-# オートスケール
+### オートスケール
 オートスケールを有効にするための設定を行います。
 
-## Quota, Limit
+#### Quota, Limit
 
-### Quota
+##### Quota
 プロジェクトに設定する利用可能なリソース使用量のハード制約
 
-### Limit
+###### Limit
 Pod/Container に設定する必要なリソース使用量
